@@ -1,0 +1,3 @@
+[submodule "depense-app"]
+	path = depense-app
+	url = https://github.com/Eala-elfh/depense-app.git

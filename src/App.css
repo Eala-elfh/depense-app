@@ -2,11 +2,51 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
+.app-logo {
+  height: 30vmin;
   pointer-events: none;
 }
+.icons{
+ width: 20px;
+ height: 20px ;
+ display:inline;
+ margin-right: 1px;
+}
+input{
+  text-decoration: none;
+  border: 0px;
+  text-align: center;
+  display: inline;
+}
+.button{
+  display: inline;
+  margin-top: 20px;
+  color: white;
+  background-color: goldenrod;
+  width: 200px;
+  height: 30px;
+  border-radius: 2px;
+  box-shadow: 2px 2px 5px black, 2px 1px 2px gray;
+  font: italic;
 
+}
+.line{
+  width: 180px;
+  height: 40px;
+}
+.form1{
+display: block;
+margin-top: 50px;;
+}
+.forgot_password{
+  display: inline;
+  margin-left: 130px;
+  margin-bottom: 10px;
+}
+
+.sign_up{
+  color: black;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

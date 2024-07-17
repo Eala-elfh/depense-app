@@ -1,0 +1,12 @@
+[
+    {"id": 1, "password": "123", "email": "alae@gmail.com"},
+    {"id": 2, "password": "7018142", "email": "chopra_mina@pfannerstill-bergnaum.example"},
+    {"id": 3, "password": "7018140", "email": "abbott_bela@kub.test"},
+    {"id": 4, "password": "7018139", "email": "verma_chandramohan@mcclure.test"},
+    {"id": 5, "password": "7018138", "email": "gandhi_himadri@herman.example"},
+    {"id": 6, "password": "7018137", "email": "aaditya_gowda@jacobson.example"},
+    {"id": 7, "password": "7018136", "email": "mishra_mahesh@botsford.example"},
+    {"id": 8, "password": "7018135", "email": "suresh_naik@rodriguez.test"},
+    {"id": 9, "password": "7018134", "email": "trilok_guha@hand.example"},
+    {"id": 10, "password": "7018133", "email": "bhoopati_verma@stroman.test"}
+]
