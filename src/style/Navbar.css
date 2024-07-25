@@ -1,6 +1,10 @@
 
 .navbar {
+<<<<<<< HEAD
     background-color: #254336;
+=======
+    background-color: darkgreen;
+>>>>>>> b6a4d09e6083a7717d7d73169843c7dd8620ea05
     display: flex;
     flex-direction: column;
     align-items: center;

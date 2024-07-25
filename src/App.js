@@ -11,9 +11,12 @@ import logo from './pictures/appLOGO.png';
 
 import IncomeForm from './components/IncomeForm.js';
 import DepenseForm from './components/DepenseForm.js';
+<<<<<<< HEAD
 import Add from './components/Add.js';
 import Report from './components/Report.js';
 import Statics from './components/Statistics.js';
+=======
+>>>>>>> b6a4d09e6083a7717d7d73169843c7dd8620ea05
 
 import usercontext from './contexts/UserContext.js';
 
@@ -34,9 +37,12 @@ function App() {
           <Route path='/navbar' element={<NavBar/>}/>
           <Route path='/income' element={<IncomeForm/>}/>
           <Route path='/depense' element={<DepenseForm/>}/>
+<<<<<<< HEAD
           <Route path='/add' element={<Add/>}/>
           <Route path='/Report' element={<Report/>}/>
           <Route path='/Statistics' element={<Statics/>}/>
+=======
+>>>>>>> b6a4d09e6083a7717d7d73169843c7dd8620ea05
         </Routes>
       </main>
     </div>
