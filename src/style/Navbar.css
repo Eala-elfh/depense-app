@@ -1,0 +1,50 @@
+
+.navbar {
+    background-color: #254336;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    position: fixed; /* Fix the navbar to the left side */
+    top: 0;
+    left: 0;
+    height: 100%; /* Make the navbar extend to the full height of the page */
+    width: auto; 
+  }
+  
+  .logo1 {
+    width: 80px;
+    margin-bottom: 20px;
+  }
+  
+  .icons1 {
+    width: 50px;
+    cursor: pointer;
+  }
+  
+  .icon-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .icon-label {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 70px; /* Adjust the distance from the icon */
+    transform: translateY(-50%);
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+    white-space: nowrap;
+    z-index: 1; /* Ensure the label appears above other elements */
+  }
+  
+  .icon-container:hover .icon-label {
+    display: block;
+  }
+  
